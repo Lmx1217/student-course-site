@@ -1,0 +1,1580 @@
+[
+  {
+    "name": "Student 001",
+    "email": "student001@example.com",
+    "profileUrl": "https://example.com/user/100001",
+    "courseCount": 9,
+    "courses": [
+      {
+        "name": "Drawing and Painting 2: 4(A)",
+        "url": "https://example.com/course/200283"
+      },
+      {
+        "name": "Spanish 3 Honors: 1(A)",
+        "url": "https://example.com/course/200113"
+      },
+      {
+        "name": "AP United States History: 5(A)",
+        "url": "https://example.com/course/200017"
+      },
+      {
+        "name": "AP Physics 1: 6(A)",
+        "url": "https://example.com/course/200109"
+      },
+      {
+        "name": "English 3: 4(A)",
+        "url": "https://example.com/course/200077"
+      },
+      {
+        "name": "United States History: 6(A)",
+        "url": "https://example.com/course/200098"
+      },
+      {
+        "name": "American Sign Language 3 Online: 8(A)",
+        "url": "https://example.com/course/200259"
+      },
+      {
+        "name": "Theology 3: 7(A)",
+        "url": "https://example.com/course/200021"
+      },
+      {
+        "name": "Marine Biology: 1(A)",
+        "url": "https://example.com/course/200310"
+      }
+    ],
+    "groupCount": 2,
+    "groups": [
+      {
+        "name": "Class of 2027",
+        "url": "https://example.com/group/300002"
+      },
+      {
+        "name": "Robotics Club",
+        "url": "https://example.com/group/300005"
+      }
+    ]
+  },
+  {
+    "name": "Student 002",
+    "email": "student002@example.com",
+    "profileUrl": "https://example.com/user/100002",
+    "courseCount": 9,
+    "courses": [
+      {
+        "name": "English 3 Online: 8(A)",
+        "url": "https://example.com/course/200277"
+      },
+      {
+        "name": "AP 2-D Art and Design Photo: 5(A)",
+        "url": "https://example.com/course/200272"
+      },
+      {
+        "name": "American Sign Language 3 Online: 8(A)",
+        "url": "https://example.com/course/200259"
+      },
+      {
+        "name": "PE - Boys Basketball: 7(A)",
+        "url": "https://example.com/course/200213"
+      },
+      {
+        "name": "Algebra 2: 3(A)",
+        "url": "https://example.com/course/200119"
+      },
+      {
+        "name": "Welcome to Demo School's Educational Technology: New Faculty",
+        "url": "https://example.com/course/200008"
+      },
+      {
+        "name": "Guitar: 4(A)",
+        "url": "https://example.com/course/200267"
+      },
+      {
+        "name": "Spanish 3 Honors: 5(A)",
+        "url": "https://example.com/course/200063"
+      },
+      {
+        "name": "United States History: 7(A)",
+        "url": "https://example.com/course/200132"
+      }
+    ],
+    "groupCount": 3,
+    "groups": [
+      {
+        "name": "Class of 2026",
+        "url": "https://example.com/group/300001"
+      },
+      {
+        "name": "Engineering Club",
+        "url": "https://example.com/group/300007"
+      },
+      {
+        "name": "Student Council",
+        "url": "https://example.com/group/300013"
+      }
+    ]
+  },
+  {
+    "name": "Student 003",
+    "email": "student003@example.com",
+    "profileUrl": "https://example.com/user/100003",
+    "courseCount": 6,
+    "courses": [
+      {
+        "name": "Pre-Calculus: 3(A)",
+        "url": "https://example.com/course/200140"
+      },
+      {
+        "name": "AP English Language: 6(A)",
+        "url": "https://example.com/course/200088"
+      },
+      {
+        "name": "Theology 3: 7(A)",
+        "url": "https://example.com/course/200021"
+      },
+      {
+        "name": "Aerospace Engineering Honors: 4(A)",
+        "url": "https://example.com/course/200108"
+      },
+      {
+        "name": "Graphic Design 1: 1(A)",
+        "url": "https://example.com/course/200011"
+      },
+      {
+        "name": "PE - Football: 7(A)",
+        "url": "https://example.com/course/200177"
+      }
+    ],
+    "groupCount": 3,
+    "groups": [
+      {
+        "name": "Class of 2029",
+        "url": "https://example.com/group/300004"
+      },
+      {
+        "name": "Demo Library",
+        "url": "https://example.com/group/300012"
+      },
+      {
+        "name": "Demo House B",
+        "url": "https://example.com/group/300011"
+      }
+    ]
+  },
+  {
+    "name": "Student 004",
+    "email": "student004@example.com",
+    "profileUrl": "https://example.com/user/100004",
+    "courseCount": 9,
+    "courses": [
+      {
+        "name": "Biology: 4(A)",
+        "url": "https://example.com/course/200327"
+      },
+      {
+        "name": "Psychology: 3(A)",
+        "url": "https://example.com/course/200151"
+      },
+      {
+        "name": "English 3: 3(A)",
+        "url": "https://example.com/course/200034"
+      },
+      {
+        "name": "Spanish 3 Honors: 1(A)",
+        "url": "https://example.com/course/200113"
+      },
+      {
+        "name": "AP English Language: 6(A)",
+        "url": "https://example.com/course/200088"
+      },
+      {
+        "name": "Latin 3 Honors Online: 8(A)",
+        "url": "https://example.com/course/200270"
+      },
+      {
+        "name": "Geometry Online: 8(A)",
+        "url": "https://example.com/course/200286"
+      },
+      {
+        "name": "Soccer: 11(A)",
+        "url": "https://example.com/course/200112"
+      },
+      {
+        "name": "PE - Boys Water Polo: 1(A)",
+        "url": "https://example.com/course/200090"
+      }
+    ],
+    "groupCount": 2,
+    "groups": [
+      {
+        "name": "Class of 2029",
+        "url": "https://example.com/group/300004"
+      },
+      {
+        "name": "Demo House A",
+        "url": "https://example.com/group/300010"
+      }
+    ]
+  },
+  {
+    "name": "Student 005",
+    "email": "student005@example.com",
+    "profileUrl": "https://example.com/user/100005",
+    "courseCount": 8,
+    "courses": [
+      {
+        "name": "Conceptual Chemistry: 4(A)",
+        "url": "https://example.com/course/200211"
+      },
+      {
+        "name": "Marine Biology: 6(A)",
+        "url": "https://example.com/course/200324"
+      },
+      {
+        "name": "TV Studio Production: 4(A)",
+        "url": "https://example.com/course/200043"
+      },
+      {
+        "name": "PE - Football: 7(A)",
+        "url": "https://example.com/course/200177"
+      },
+      {
+        "name": "Geometry: 6(A)",
+        "url": "https://example.com/course/200280"
+      },
+      {
+        "name": "AP United States History: 3(A)",
+        "url": "https://example.com/course/200054"
+      },
+      {
+        "name": "AP 2-D Art and Design Photo: 5(A)",
+        "url": "https://example.com/course/200272"
+      },
+      {
+        "name": "Constitutional Law Honors: 4(A)",
+        "url": "https://example.com/course/200330"
+      }
+    ],
+    "groupCount": 3,
+    "groups": [
+      {
+        "name": "Class of 2029",
+        "url": "https://example.com/group/300004"
+      },
+      {
+        "name": "Robotics Club",
+        "url": "https://example.com/group/300005"
+      },
+      {
+        "name": "Demo House A",
+        "url": "https://example.com/group/300010"
+      }
+    ]
+  },
+  {
+    "name": "Student 006",
+    "email": "student006@example.com",
+    "profileUrl": "https://example.com/user/100006",
+    "courseCount": 9,
+    "courses": [
+      {
+        "name": "PE Cross Country/Track: 1(A)",
+        "url": "https://example.com/course/200273"
+      },
+      {
+        "name": "AP French Language: 4(A)",
+        "url": "https://example.com/course/200231"
+      },
+      {
+        "name": "Algebra 2/Trigonometry Honors: 6(A)",
+        "url": "https://example.com/course/200200"
+      },
+      {
+        "name": "English 3: 6(A)",
+        "url": "https://example.com/course/200027"
+      },
+      {
+        "name": "Digital Electronics Honors: 4(A)",
+        "url": "https://example.com/course/200168"
+      },
+      {
+        "name": "Theology 3: 2(A)",
+        "url": "https://example.com/course/200144"
+      },
+      {
+        "name": "AP Spanish Language: 6(A)",
+        "url": "https://example.com/course/200032"
+      },
+      {
+        "name": "Astronomy: 2(A)",
+        "url": "https://example.com/course/200279"
+      },
+      {
+        "name": "Astronomy: 3(A)",
+        "url": "https://example.com/course/200316"
+      }
+    ],
+    "groupCount": 3,
+    "groups": [
+      {
+        "name": "Class of 2026",
+        "url": "https://example.com/group/300001"
+      },
+      {
+        "name": "Robotics Club",
+        "url": "https://example.com/group/300005"
+      },
+      {
+        "name": "Demo House A",
+        "url": "https://example.com/group/300010"
+      }
+    ]
+  },
+  {
+    "name": "Student 007",
+    "email": "student007@example.com",
+    "profileUrl": "https://example.com/user/100007",
+    "courseCount": 8,
+    "courses": [
+      {
+        "name": "Algebra 2: 3(A)",
+        "url": "https://example.com/course/200119"
+      },
+      {
+        "name": "PE - Boys Water Polo: 1(A)",
+        "url": "https://example.com/course/200090"
+      },
+      {
+        "name": "Geometry: 1(A)",
+        "url": "https://example.com/course/200284"
+      },
+      {
+        "name": "English 3: 6(A)",
+        "url": "https://example.com/course/200027"
+      },
+      {
+        "name": "Financial Algebra: 5(A)",
+        "url": "https://example.com/course/200307"
+      },
+      {
+        "name": "United States History: 7(A)",
+        "url": "https://example.com/course/200132"
+      },
+      {
+        "name": "Theology 3: 1(A)",
+        "url": "https://example.com/course/200080"
+      },
+      {
+        "name": "Photojournalism Newspaper: 7(A)",
+        "url": "https://example.com/course/200240"
+      }
+    ],
+    "groupCount": 2,
+    "groups": [
+      {
+        "name": "Class of 2028",
+        "url": "https://example.com/group/300003"
+      },
+      {
+        "name": "Coding Club",
+        "url": "https://example.com/group/300006"
+      }
+    ]
+  },
+  {
+    "name": "Student 008",
+    "email": "student008@example.com",
+    "profileUrl": "https://example.com/user/100008",
+    "courseCount": 9,
+    "courses": [
+      {
+        "name": "ASL 3 Online Honors: 8(A)",
+        "url": "https://example.com/course/200123"
+      },
+      {
+        "name": "Theology 3: 6(A)",
+        "url": "https://example.com/course/200121"
+      },
+      {
+        "name": "Algebra 2/Trigonometry Honors: 5(A)",
+        "url": "https://example.com/course/200230"
+      },
+      {
+        "name": "Summer Chem Ext: 2nd Sem",
+        "url": "https://example.com/course/200232"
+      },
+      {
+        "name": "ASB Leadership: 5(A)",
+        "url": "https://example.com/course/200009"
+      },
+      {
+        "name": "Algebra 2/Trigonometry Honors: 6(A)",
+        "url": "https://example.com/course/200200"
+      },
+      {
+        "name": "Spanish 2: 3(A)",
+        "url": "https://example.com/course/200252"
+      },
+      {
+        "name": "Biology: 4(A)",
+        "url": "https://example.com/course/200327"
+      },
+      {
+        "name": "Algebra 2/Trigonometry Honors: 1(A)",
+        "url": "https://example.com/course/200153"
+      }
+    ],
+    "groupCount": 3,
+    "groups": [
+      {
+        "name": "Class of 2028",
+        "url": "https://example.com/group/300003"
+      },
+      {
+        "name": "Demo Library",
+        "url": "https://example.com/group/300012"
+      },
+      {
+        "name": "Engineering Club",
+        "url": "https://example.com/group/300007"
+      }
+    ]
+  },
+  {
+    "name": "Student 009",
+    "email": "student009@example.com",
+    "profileUrl": "https://example.com/user/100009",
+    "courseCount": 8,
+    "courses": [
+      {
+        "name": "AP Computer Science A: 3(A)",
+        "url": "https://example.com/course/200001"
+      },
+      {
+        "name": "Theatre 1: 4(A)",
+        "url": "https://example.com/course/200291"
+      },
+      {
+        "name": "AP Biology: 4(A)",
+        "url": "https://example.com/course/200197"
+      },
+      {
+        "name": "AP Precalculus: 6(A)",
+        "url": "https://example.com/course/200016"
+      },
+      {
+        "name": "Spanish 2: 2(A)",
+        "url": "https://example.com/course/200188"
+      },
+      {
+        "name": "ASB Leadership: 5(A)",
+        "url": "https://example.com/course/200009"
+      },
+      {
+        "name": "Water Polo: 11(A)",
+        "url": "https://example.com/course/200099"
+      },
+      {
+        "name": "Dance Workshop: 6(A)",
+        "url": "https://example.com/course/200300"
+      }
+    ],
+    "groupCount": 2,
+    "groups": [
+      {
+        "name": "Class of 2029",
+        "url": "https://example.com/group/300004"
+      },
+      {
+        "name": "Robotics Club",
+        "url": "https://example.com/group/300005"
+      }
+    ]
+  },
+  {
+    "name": "Student 010",
+    "email": "student010@example.com",
+    "profileUrl": "https://example.com/user/100010",
+    "courseCount": 8,
+    "courses": [
+      {
+        "name": "Geometry: 7(A)",
+        "url": "https://example.com/course/200190"
+      },
+      {
+        "name": "French 3: 1(A)",
+        "url": "https://example.com/course/200226"
+      },
+      {
+        "name": "Theatre 2 Honors: 4(A)",
+        "url": "https://example.com/course/200315"
+      },
+      {
+        "name": "AP Environmental Science: 7(A)",
+        "url": "https://example.com/course/200146"
+      },
+      {
+        "name": "Graphic Design 2: 5(A)",
+        "url": "https://example.com/course/200287"
+      },
+      {
+        "name": "Chemistry: 2(A)",
+        "url": "https://example.com/course/200075"
+      },
+      {
+        "name": "Spanish 3 Honors: 2(A)",
+        "url": "https://example.com/course/200193"
+      },
+      {
+        "name": "Theology 3: 1(A)",
+        "url": "https://example.com/course/200080"
+      }
+    ],
+    "groupCount": 3,
+    "groups": [
+      {
+        "name": "Class of 2028",
+        "url": "https://example.com/group/300003"
+      },
+      {
+        "name": "Science Club",
+        "url": "https://example.com/group/300008"
+      },
+      {
+        "name": "Academic Team",
+        "url": "https://example.com/group/300014"
+      }
+    ]
+  },
+  {
+    "name": "Student 011",
+    "email": "student011@example.com",
+    "profileUrl": "https://example.com/user/100011",
+    "courseCount": 9,
+    "courses": [
+      {
+        "name": "English 3: 1(A)",
+        "url": "https://example.com/course/200115"
+      },
+      {
+        "name": "Pre-Calculus: 1(A)",
+        "url": "https://example.com/course/200097"
+      },
+      {
+        "name": "AP Spanish Language: 6(A)",
+        "url": "https://example.com/course/200032"
+      },
+      {
+        "name": "TV Studio Production: 4(A)",
+        "url": "https://example.com/course/200043"
+      },
+      {
+        "name": "Theology 3: 5(A)",
+        "url": "https://example.com/course/200029"
+      },
+      {
+        "name": "Psychology: 3(A)",
+        "url": "https://example.com/course/200151"
+      },
+      {
+        "name": "Algebra 2 Honors Online: 8(A)",
+        "url": "https://example.com/course/200074"
+      },
+      {
+        "name": "AP Environmental Science: 1(A)",
+        "url": "https://example.com/course/200158"
+      },
+      {
+        "name": "Spanish 2: 3(A)",
+        "url": "https://example.com/course/200252"
+      }
+    ],
+    "groupCount": 2,
+    "groups": [
+      {
+        "name": "Class of 2029",
+        "url": "https://example.com/group/300004"
+      },
+      {
+        "name": "Community Service",
+        "url": "https://example.com/group/300009"
+      }
+    ]
+  },
+  {
+    "name": "Student 012",
+    "email": "student012@example.com",
+    "profileUrl": "https://example.com/user/100012",
+    "courseCount": 7,
+    "courses": [
+      {
+        "name": "Algebra 2/Trigonometry Honors: 1(A)",
+        "url": "https://example.com/course/200153"
+      },
+      {
+        "name": "Theatre 1: 4(A)",
+        "url": "https://example.com/course/200291"
+      },
+      {
+        "name": "Social Media & Digital Marketing: 3(A)",
+        "url": "https://example.com/course/200013"
+      },
+      {
+        "name": "Marine Biology: 6(A)",
+        "url": "https://example.com/course/200324"
+      },
+      {
+        "name": "Personal Fitness 2 Online: 8(A)",
+        "url": "https://example.com/course/200268"
+      },
+      {
+        "name": "Computer Integrated Manuf. H: 6(A)",
+        "url": "https://example.com/course/200166"
+      },
+      {
+        "name": "United States History: 5(A)",
+        "url": "https://example.com/course/200081"
+      }
+    ],
+    "groupCount": 3,
+    "groups": [
+      {
+        "name": "Class of 2029",
+        "url": "https://example.com/group/300004"
+      },
+      {
+        "name": "Robotics Club",
+        "url": "https://example.com/group/300005"
+      },
+      {
+        "name": "Demo House A",
+        "url": "https://example.com/group/300010"
+      }
+    ]
+  },
+  {
+    "name": "Student 013",
+    "email": "student013@example.com",
+    "profileUrl": "https://example.com/user/100013",
+    "courseCount": 9,
+    "courses": [
+      {
+        "name": "AP Statistics: 6(A)",
+        "url": "https://example.com/course/200239"
+      },
+      {
+        "name": "Geometry Online: 8(A)",
+        "url": "https://example.com/course/200286"
+      },
+      {
+        "name": "Water Polo: 11(A)",
+        "url": "https://example.com/course/200099"
+      },
+      {
+        "name": "Geometry Online-Semester 1: 8(A)",
+        "url": "https://example.com/course/200317"
+      },
+      {
+        "name": "Algebra 2/Trigonometry Honors: 4(A)",
+        "url": "https://example.com/course/200045"
+      },
+      {
+        "name": "Anatomy and Physiology: 7(A)",
+        "url": "https://example.com/course/200203"
+      },
+      {
+        "name": "AP Calculus AB: 4(A)",
+        "url": "https://example.com/course/200170"
+      },
+      {
+        "name": "AP Chemistry: 2(A)",
+        "url": "https://example.com/course/200104"
+      },
+      {
+        "name": "PE - Pep Squad: 8(A)",
+        "url": "https://example.com/course/200301"
+      }
+    ],
+    "groupCount": 2,
+    "groups": [
+      {
+        "name": "Class of 2028",
+        "url": "https://example.com/group/300003"
+      },
+      {
+        "name": "Demo House A",
+        "url": "https://example.com/group/300010"
+      }
+    ]
+  },
+  {
+    "name": "Student 014",
+    "email": "student014@example.com",
+    "profileUrl": "https://example.com/user/100014",
+    "courseCount": 7,
+    "courses": [
+      {
+        "name": "English 3: 3(A)",
+        "url": "https://example.com/course/200019"
+      },
+      {
+        "name": "Anatomy and Physiology H: 4(A)",
+        "url": "https://example.com/course/200233"
+      },
+      {
+        "name": "Theology 3: 1(A)",
+        "url": "https://example.com/course/200080"
+      },
+      {
+        "name": "Biology: 7(A)",
+        "url": "https://example.com/course/200285"
+      },
+      {
+        "name": "Volleyball: 11(A)",
+        "url": "https://example.com/course/200165"
+      },
+      {
+        "name": "AP English Language: 5(A)",
+        "url": "https://example.com/course/200145"
+      },
+      {
+        "name": "AP Spanish Language: 6(A)",
+        "url": "https://example.com/course/200032"
+      }
+    ],
+    "groupCount": 3,
+    "groups": [
+      {
+        "name": "Class of 2028",
+        "url": "https://example.com/group/300003"
+      },
+      {
+        "name": "Science Club",
+        "url": "https://example.com/group/300008"
+      },
+      {
+        "name": "Academic Team",
+        "url": "https://example.com/group/300014"
+      }
+    ]
+  },
+  {
+    "name": "Student 015",
+    "email": "student015@example.com",
+    "profileUrl": "https://example.com/user/100015",
+    "courseCount": 7,
+    "courses": [
+      {
+        "name": "ASL 3 Online Honors: 8(A)",
+        "url": "https://example.com/course/200123"
+      },
+      {
+        "name": "ASB Leadership: 5(A)",
+        "url": "https://example.com/course/200009"
+      },
+      {
+        "name": "Spanish 3 Honors: 2(A)",
+        "url": "https://example.com/course/200193"
+      },
+      {
+        "name": "Photojournalism Newspaper: 7(A)",
+        "url": "https://example.com/course/200240"
+      },
+      {
+        "name": "Latin 2 Online: 8(A)",
+        "url": "https://example.com/course/200215"
+      },
+      {
+        "name": "Financial Algebra: 5(A)",
+        "url": "https://example.com/course/200307"
+      },
+      {
+        "name": "Theology 3 Humanities Honors: 3(A)",
+        "url": "https://example.com/course/200070"
+      }
+    ],
+    "groupCount": 2,
+    "groups": [
+      {
+        "name": "Class of 2028",
+        "url": "https://example.com/group/300003"
+      },
+      {
+        "name": "Community Service",
+        "url": "https://example.com/group/300009"
+      }
+    ]
+  },
+  {
+    "name": "Student 016",
+    "email": "student016@example.com",
+    "profileUrl": "https://example.com/user/100016",
+    "courseCount": 8,
+    "courses": [
+      {
+        "name": "Theology 3 Humanities Honors: 3(A)",
+        "url": "https://example.com/course/200070"
+      },
+      {
+        "name": "Personal Fitness 2 Online: 8(A)",
+        "url": "https://example.com/course/200268"
+      },
+      {
+        "name": "Algebra 2/Trigonometry Honors: 6(A)",
+        "url": "https://example.com/course/200200"
+      },
+      {
+        "name": "Adobe Creative Suite: 5(A)",
+        "url": "https://example.com/course/200264"
+      },
+      {
+        "name": "Drawing and Painting 1: 2(A)",
+        "url": "https://example.com/course/200289"
+      },
+      {
+        "name": "Accounting 1 Honors: 2(A)",
+        "url": "https://example.com/course/200014"
+      },
+      {
+        "name": "AP Chemistry: 1(A)",
+        "url": "https://example.com/course/200015"
+      },
+      {
+        "name": "Geometry: 1(A)",
+        "url": "https://example.com/course/200284"
+      }
+    ],
+    "groupCount": 2,
+    "groups": [
+      {
+        "name": "Class of 2027",
+        "url": "https://example.com/group/300002"
+      },
+      {
+        "name": "Student Council",
+        "url": "https://example.com/group/300013"
+      }
+    ]
+  },
+  {
+    "name": "Student 017",
+    "email": "student017@example.com",
+    "profileUrl": "https://example.com/user/100017",
+    "courseCount": 6,
+    "courses": [
+      {
+        "name": "AP 2-D Art and Design Photo: 5(A)",
+        "url": "https://example.com/course/200272"
+      },
+      {
+        "name": "French 3 Honors: 3(A)",
+        "url": "https://example.com/course/200174"
+      },
+      {
+        "name": "Social Media & Digital Marketing: 3(A)",
+        "url": "https://example.com/course/200013"
+      },
+      {
+        "name": "Surf Team: 11(A)",
+        "url": "https://example.com/course/200156"
+      },
+      {
+        "name": "English 3: 1(A)",
+        "url": "https://example.com/course/200115"
+      },
+      {
+        "name": "Spanish 2: 3(A)",
+        "url": "https://example.com/course/200252"
+      }
+    ],
+    "groupCount": 2,
+    "groups": [
+      {
+        "name": "Class of 2028",
+        "url": "https://example.com/group/300003"
+      },
+      {
+        "name": "Demo Library",
+        "url": "https://example.com/group/300012"
+      }
+    ]
+  },
+  {
+    "name": "Student 018",
+    "email": "student018@example.com",
+    "profileUrl": "https://example.com/user/100018",
+    "courseCount": 6,
+    "courses": [
+      {
+        "name": "AP Biology: 4(A)",
+        "url": "https://example.com/course/200197"
+      },
+      {
+        "name": "Algebra 2/Trigonometry Honors: 5(A)",
+        "url": "https://example.com/course/200230"
+      },
+      {
+        "name": "English 3: 2(A)",
+        "url": "https://example.com/course/200094"
+      },
+      {
+        "name": "Equestrian: 11(A)",
+        "url": "https://example.com/course/200126"
+      },
+      {
+        "name": "Criminal Law Honors: 5(A)",
+        "url": "https://example.com/course/200107"
+      },
+      {
+        "name": "United States History: 1(A)",
+        "url": "https://example.com/course/200050"
+      }
+    ],
+    "groupCount": 2,
+    "groups": [
+      {
+        "name": "Class of 2026",
+        "url": "https://example.com/group/300001"
+      },
+      {
+        "name": "Coding Club",
+        "url": "https://example.com/group/300006"
+      }
+    ]
+  },
+  {
+    "name": "Student 019",
+    "email": "student019@example.com",
+    "profileUrl": "https://example.com/user/100019",
+    "courseCount": 6,
+    "courses": [
+      {
+        "name": "PE - Baseball: 7(A)",
+        "url": "https://example.com/course/200155"
+      },
+      {
+        "name": "Piano I: 3(A)",
+        "url": "https://example.com/course/200241"
+      },
+      {
+        "name": "Marine Biology: 1(A)",
+        "url": "https://example.com/course/200310"
+      },
+      {
+        "name": "Chemistry Honors: 6(A)",
+        "url": "https://example.com/course/200072"
+      },
+      {
+        "name": "Algebra 2/Trigonometry Honors: 4(A)",
+        "url": "https://example.com/course/200045"
+      },
+      {
+        "name": "Algebra 2 Online: 8(A)",
+        "url": "https://example.com/course/200250"
+      }
+    ],
+    "groupCount": 2,
+    "groups": [
+      {
+        "name": "Class of 2027",
+        "url": "https://example.com/group/300002"
+      },
+      {
+        "name": "Engineering Club",
+        "url": "https://example.com/group/300007"
+      }
+    ]
+  },
+  {
+    "name": "Student 020",
+    "email": "student020@example.com",
+    "profileUrl": "https://example.com/user/100020",
+    "courseCount": 9,
+    "courses": [
+      {
+        "name": "Spring Musical: 11(A)",
+        "url": "https://example.com/course/200057"
+      },
+      {
+        "name": "Geometry: 3(A)",
+        "url": "https://example.com/course/200162"
+      },
+      {
+        "name": "Algebra 2: 2(A)",
+        "url": "https://example.com/course/200172"
+      },
+      {
+        "name": "Digital Photography 1: 2(A)",
+        "url": "https://example.com/course/200216"
+      },
+      {
+        "name": "Guitar: 4(A)",
+        "url": "https://example.com/course/200267"
+      },
+      {
+        "name": "PE - Girls Water Polo: 7(A)",
+        "url": "https://example.com/course/200096"
+      },
+      {
+        "name": "AP Environmental Science: 1(A)",
+        "url": "https://example.com/course/200158"
+      },
+      {
+        "name": "Algebra 2/Trigonometry Honors: 4(A)",
+        "url": "https://example.com/course/200045"
+      },
+      {
+        "name": "Precalculus Honors Online: 8(A)",
+        "url": "https://example.com/course/200137"
+      }
+    ],
+    "groupCount": 3,
+    "groups": [
+      {
+        "name": "Class of 2028",
+        "url": "https://example.com/group/300003"
+      },
+      {
+        "name": "Science Club",
+        "url": "https://example.com/group/300008"
+      },
+      {
+        "name": "Community Service",
+        "url": "https://example.com/group/300009"
+      }
+    ]
+  },
+  {
+    "name": "Student 021",
+    "email": "student021@example.com",
+    "profileUrl": "https://example.com/user/100021",
+    "courseCount": 7,
+    "courses": [
+      {
+        "name": "Environmental Science: 3(A)",
+        "url": "https://example.com/course/200292"
+      },
+      {
+        "name": "Pre-Calculus: 5(A)",
+        "url": "https://example.com/course/200131"
+      },
+      {
+        "name": "Actor's Repertory Theatre Honors: 7(A)",
+        "url": "https://example.com/course/200051"
+      },
+      {
+        "name": "Theology 3 Honors: 5(A)",
+        "url": "https://example.com/course/200058"
+      },
+      {
+        "name": "French 3: 3(A)",
+        "url": "https://example.com/course/200173"
+      },
+      {
+        "name": "Digital Photography 1: 6(A)",
+        "url": "https://example.com/course/200269"
+      },
+      {
+        "name": "AP United States History: 2(A)",
+        "url": "https://example.com/course/200059"
+      }
+    ],
+    "groupCount": 3,
+    "groups": [
+      {
+        "name": "Class of 2027",
+        "url": "https://example.com/group/300002"
+      },
+      {
+        "name": "Demo Library",
+        "url": "https://example.com/group/300012"
+      },
+      {
+        "name": "Student Council",
+        "url": "https://example.com/group/300013"
+      }
+    ]
+  },
+  {
+    "name": "Student 022",
+    "email": "student022@example.com",
+    "profileUrl": "https://example.com/user/100022",
+    "courseCount": 8,
+    "courses": [
+      {
+        "name": "AP Biology: 4(A)",
+        "url": "https://example.com/course/200197"
+      },
+      {
+        "name": "Chemistry: 3(A)",
+        "url": "https://example.com/course/200186"
+      },
+      {
+        "name": "Principles of Engineering Honors: 3(A)",
+        "url": "https://example.com/course/200149"
+      },
+      {
+        "name": "Chemistry: 2(A)",
+        "url": "https://example.com/course/200075"
+      },
+      {
+        "name": "Algebra 2: 3(A)",
+        "url": "https://example.com/course/200119"
+      },
+      {
+        "name": "PE - Pep Squad: 8(A)",
+        "url": "https://example.com/course/200301"
+      },
+      {
+        "name": "Spanish 3 Honors: 2(A)",
+        "url": "https://example.com/course/200193"
+      },
+      {
+        "name": "Health 1 : 5(A)",
+        "url": "https://example.com/course/200328"
+      }
+    ],
+    "groupCount": 2,
+    "groups": [
+      {
+        "name": "Class of 2029",
+        "url": "https://example.com/group/300004"
+      },
+      {
+        "name": "Community Service",
+        "url": "https://example.com/group/300009"
+      }
+    ]
+  },
+  {
+    "name": "Student 023",
+    "email": "student023@example.com",
+    "profileUrl": "https://example.com/user/100023",
+    "courseCount": 9,
+    "courses": [
+      {
+        "name": "Guitar: 4(A)",
+        "url": "https://example.com/course/200267"
+      },
+      {
+        "name": "Teaching Assistant Semester: 7(A)",
+        "url": "https://example.com/course/200320"
+      },
+      {
+        "name": "Graphic Design 1: 1(A)",
+        "url": "https://example.com/course/200011"
+      },
+      {
+        "name": "Chemistry: 3(A)",
+        "url": "https://example.com/course/200186"
+      },
+      {
+        "name": "Latin 2 Online: 8(A)",
+        "url": "https://example.com/course/200215"
+      },
+      {
+        "name": "Graphic Design I Online: 8(A)",
+        "url": "https://example.com/course/200261"
+      },
+      {
+        "name": "Online Health: 8(A)",
+        "url": "https://example.com/course/200242"
+      },
+      {
+        "name": "United States History: 1(A)",
+        "url": "https://example.com/course/200050"
+      },
+      {
+        "name": "French 3 Honors Online: 8(A)",
+        "url": "https://example.com/course/200255"
+      }
+    ],
+    "groupCount": 3,
+    "groups": [
+      {
+        "name": "Class of 2026",
+        "url": "https://example.com/group/300001"
+      },
+      {
+        "name": "Coding Club",
+        "url": "https://example.com/group/300006"
+      },
+      {
+        "name": "Student Council",
+        "url": "https://example.com/group/300013"
+      }
+    ]
+  },
+  {
+    "name": "Student 024",
+    "email": "student024@example.com",
+    "profileUrl": "https://example.com/user/100024",
+    "courseCount": 8,
+    "courses": [
+      {
+        "name": "AP English Language: 5(A)",
+        "url": "https://example.com/course/200145"
+      },
+      {
+        "name": "TV Studio Production: 4(A)",
+        "url": "https://example.com/course/200043"
+      },
+      {
+        "name": "Online AP Psychology: 8(A)",
+        "url": "https://example.com/course/200049"
+      },
+      {
+        "name": "AP 2-D Art and Design Photo: 5(A)",
+        "url": "https://example.com/course/200272"
+      },
+      {
+        "name": "AP Precalculus: 3(A)",
+        "url": "https://example.com/course/200023"
+      },
+      {
+        "name": "AP Environmental Science: 5(A)",
+        "url": "https://example.com/course/200030"
+      },
+      {
+        "name": "United States History: 5(A)",
+        "url": "https://example.com/course/200081"
+      },
+      {
+        "name": "Algebra 2/Trigonometry Honors: 7(A)",
+        "url": "https://example.com/course/200066"
+      }
+    ],
+    "groupCount": 2,
+    "groups": [
+      {
+        "name": "Class of 2027",
+        "url": "https://example.com/group/300002"
+      },
+      {
+        "name": "Science Club",
+        "url": "https://example.com/group/300008"
+      }
+    ]
+  },
+  {
+    "name": "Student 025",
+    "email": "student025@example.com",
+    "profileUrl": "https://example.com/user/100025",
+    "courseCount": 8,
+    "courses": [
+      {
+        "name": "Spanish 3 Honors Online: 8(A)",
+        "url": "https://example.com/course/200079"
+      },
+      {
+        "name": "Geometry Online: 8(A)",
+        "url": "https://example.com/course/200286"
+      },
+      {
+        "name": "Theatre 2 Honors: 4(A)",
+        "url": "https://example.com/course/200315"
+      },
+      {
+        "name": "Spanish 4: 4(A)",
+        "url": "https://example.com/course/200299"
+      },
+      {
+        "name": "Marine Biology: 4(A)",
+        "url": "https://example.com/course/200095"
+      },
+      {
+        "name": "AP United States History: 1(A)",
+        "url": "https://example.com/course/200105"
+      },
+      {
+        "name": "Chemistry: 3(A)",
+        "url": "https://example.com/course/200186"
+      },
+      {
+        "name": "Digital Photography 1: 3(A)",
+        "url": "https://example.com/course/200135"
+      }
+    ],
+    "groupCount": 2,
+    "groups": [
+      {
+        "name": "Class of 2026",
+        "url": "https://example.com/group/300001"
+      },
+      {
+        "name": "Student Council",
+        "url": "https://example.com/group/300013"
+      }
+    ]
+  },
+  {
+    "name": "Student 026",
+    "email": "student026@example.com",
+    "profileUrl": "https://example.com/user/100026",
+    "courseCount": 6,
+    "courses": [
+      {
+        "name": "Geometry Online: 8(A)",
+        "url": "https://example.com/course/200286"
+      },
+      {
+        "name": "Rock Band Workshop: 7(A)",
+        "url": "https://example.com/course/200325"
+      },
+      {
+        "name": "Theology 3 Honors: 2(A)",
+        "url": "https://example.com/course/200152"
+      },
+      {
+        "name": "HOPE-Physical Education Online: 8(A)",
+        "url": "https://example.com/course/200329"
+      },
+      {
+        "name": "Social Media & Digital Marketing: 3(A)",
+        "url": "https://example.com/course/200013"
+      },
+      {
+        "name": "Algebra 2/Trigonometry Honors: 3(A)",
+        "url": "https://example.com/course/200083"
+      }
+    ],
+    "groupCount": 2,
+    "groups": [
+      {
+        "name": "Class of 2028",
+        "url": "https://example.com/group/300003"
+      },
+      {
+        "name": "Science Club",
+        "url": "https://example.com/group/300008"
+      }
+    ]
+  },
+  {
+    "name": "Student 027",
+    "email": "student027@example.com",
+    "profileUrl": "https://example.com/user/100027",
+    "courseCount": 7,
+    "courses": [
+      {
+        "name": "Geometry: 2(A)",
+        "url": "https://example.com/course/200309"
+      },
+      {
+        "name": "AP Biology: 4(A)",
+        "url": "https://example.com/course/200197"
+      },
+      {
+        "name": "Physics: 3(A)",
+        "url": "https://example.com/course/200195"
+      },
+      {
+        "name": "Algebra 2/Trigonometry Honors: 3(A)",
+        "url": "https://example.com/course/200083"
+      },
+      {
+        "name": "AP English Language: 2(A)",
+        "url": "https://example.com/course/200085"
+      },
+      {
+        "name": "English 3: 4(A)",
+        "url": "https://example.com/course/200077"
+      },
+      {
+        "name": "Intro to Catholic Principles: 2(A)",
+        "url": "https://example.com/course/200297"
+      }
+    ],
+    "groupCount": 3,
+    "groups": [
+      {
+        "name": "Class of 2027",
+        "url": "https://example.com/group/300002"
+      },
+      {
+        "name": "Demo House B",
+        "url": "https://example.com/group/300011"
+      },
+      {
+        "name": "Academic Team",
+        "url": "https://example.com/group/300014"
+      }
+    ]
+  },
+  {
+    "name": "Student 028",
+    "email": "student028@example.com",
+    "profileUrl": "https://example.com/user/100028",
+    "courseCount": 9,
+    "courses": [
+      {
+        "name": "Geometry: 2(A)",
+        "url": "https://example.com/course/200309"
+      },
+      {
+        "name": "English 3: 1(A)",
+        "url": "https://example.com/course/200115"
+      },
+      {
+        "name": "Chemistry: 7(A)",
+        "url": "https://example.com/course/200194"
+      },
+      {
+        "name": "Drawing and Painting 1: 5(A)",
+        "url": "https://example.com/course/200305"
+      },
+      {
+        "name": "Algebra 2/Trigonometry Honors: 6(A)",
+        "url": "https://example.com/course/200200"
+      },
+      {
+        "name": "Spanish 2: 3(A)",
+        "url": "https://example.com/course/200252"
+      },
+      {
+        "name": "AP Environmental Science: 6(A)",
+        "url": "https://example.com/course/200129"
+      },
+      {
+        "name": "Equestrian: 11(A)",
+        "url": "https://example.com/course/200126"
+      },
+      {
+        "name": "AP French Language: 4(A)",
+        "url": "https://example.com/course/200231"
+      }
+    ],
+    "groupCount": 3,
+    "groups": [
+      {
+        "name": "Class of 2027",
+        "url": "https://example.com/group/300002"
+      },
+      {
+        "name": "Academic Team",
+        "url": "https://example.com/group/300014"
+      },
+      {
+        "name": "Robotics Club",
+        "url": "https://example.com/group/300005"
+      }
+    ]
+  },
+  {
+    "name": "Student 029",
+    "email": "student029@example.com",
+    "profileUrl": "https://example.com/user/100029",
+    "courseCount": 9,
+    "courses": [
+      {
+        "name": "Drawing and Painting 1: 1(A)",
+        "url": "https://example.com/course/200262"
+      },
+      {
+        "name": "United States History: 6(A)",
+        "url": "https://example.com/course/200098"
+      },
+      {
+        "name": "Spanish 3 Honors Online: 8(A)",
+        "url": "https://example.com/course/200079"
+      },
+      {
+        "name": "Rock Band Workshop: 7(A)",
+        "url": "https://example.com/course/200325"
+      },
+      {
+        "name": "TV Broadcast Sports and Entertainment: 6(A)",
+        "url": "https://example.com/course/200271"
+      },
+      {
+        "name": "AP Environmental Science: 2(A)",
+        "url": "https://example.com/course/200022"
+      },
+      {
+        "name": "AP Calculus AB: 2(A)",
+        "url": "https://example.com/course/200157"
+      },
+      {
+        "name": "Algebra 2: 4(A)",
+        "url": "https://example.com/course/200141"
+      },
+      {
+        "name": "AP French Language: 4(A)",
+        "url": "https://example.com/course/200231"
+      }
+    ],
+    "groupCount": 3,
+    "groups": [
+      {
+        "name": "Class of 2028",
+        "url": "https://example.com/group/300003"
+      },
+      {
+        "name": "Science Club",
+        "url": "https://example.com/group/300008"
+      },
+      {
+        "name": "Robotics Club",
+        "url": "https://example.com/group/300005"
+      }
+    ]
+  },
+  {
+    "name": "Student 030",
+    "email": "student030@example.com",
+    "profileUrl": "https://example.com/user/100030",
+    "courseCount": 9,
+    "courses": [
+      {
+        "name": "PE - Boys Water Polo: 1(A)",
+        "url": "https://example.com/course/200090"
+      },
+      {
+        "name": "AP Chemistry: 2(A)",
+        "url": "https://example.com/course/200104"
+      },
+      {
+        "name": "Theology 3: 3(A)",
+        "url": "https://example.com/course/200042"
+      },
+      {
+        "name": "American Sign Language 2: 7(A)",
+        "url": "https://example.com/course/200313"
+      },
+      {
+        "name": "PE - Softball: 7(A)",
+        "url": "https://example.com/course/200248"
+      },
+      {
+        "name": "ASB Leadership: 5(A)",
+        "url": "https://example.com/course/200009"
+      },
+      {
+        "name": "Online Health: 8(A)",
+        "url": "https://example.com/course/200242"
+      },
+      {
+        "name": "Spring Musical: 11(A)",
+        "url": "https://example.com/course/200057"
+      },
+      {
+        "name": "Theology 3 Honors: 5(A)",
+        "url": "https://example.com/course/200058"
+      }
+    ],
+    "groupCount": 3,
+    "groups": [
+      {
+        "name": "Class of 2026",
+        "url": "https://example.com/group/300001"
+      },
+      {
+        "name": "Academic Team",
+        "url": "https://example.com/group/300014"
+      },
+      {
+        "name": "Science Club",
+        "url": "https://example.com/group/300008"
+      }
+    ]
+  }
+]

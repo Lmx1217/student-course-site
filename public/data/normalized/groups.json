@@ -1,0 +1,100 @@
+[
+  {
+    "id": "group_300001",
+    "schoologyGroupId": "300001",
+    "name": "Class of 2026",
+    "url": "",
+    "category": "class_year"
+  },
+  {
+    "id": "group_300002",
+    "schoologyGroupId": "300002",
+    "name": "Class of 2027",
+    "url": "",
+    "category": "class_year"
+  },
+  {
+    "id": "group_300003",
+    "schoologyGroupId": "300003",
+    "name": "Class of 2028",
+    "url": "",
+    "category": "class_year"
+  },
+  {
+    "id": "group_300004",
+    "schoologyGroupId": "300004",
+    "name": "Class of 2029",
+    "url": "",
+    "category": "class_year"
+  },
+  {
+    "id": "group_300005",
+    "schoologyGroupId": "300005",
+    "name": "Robotics Club",
+    "url": "",
+    "category": "club"
+  },
+  {
+    "id": "group_300006",
+    "schoologyGroupId": "300006",
+    "name": "Coding Club",
+    "url": "",
+    "category": "club"
+  },
+  {
+    "id": "group_300007",
+    "schoologyGroupId": "300007",
+    "name": "Engineering Club",
+    "url": "",
+    "category": "club"
+  },
+  {
+    "id": "group_300008",
+    "schoologyGroupId": "300008",
+    "name": "Science Club",
+    "url": "",
+    "category": "club"
+  },
+  {
+    "id": "group_300009",
+    "schoologyGroupId": "300009",
+    "name": "Community Service",
+    "url": "",
+    "category": "service"
+  },
+  {
+    "id": "group_300010",
+    "schoologyGroupId": "300010",
+    "name": "Demo House A",
+    "url": "",
+    "category": "house"
+  },
+  {
+    "id": "group_300011",
+    "schoologyGroupId": "300011",
+    "name": "Demo House B",
+    "url": "",
+    "category": "house"
+  },
+  {
+    "id": "group_300012",
+    "schoologyGroupId": "300012",
+    "name": "Demo Library",
+    "url": "",
+    "category": "library"
+  },
+  {
+    "id": "group_300013",
+    "schoologyGroupId": "300013",
+    "name": "Student Council",
+    "url": "",
+    "category": "other"
+  },
+  {
+    "id": "group_300014",
+    "schoologyGroupId": "300014",
+    "name": "Academic Team",
+    "url": "",
+    "category": "club"
+  }
+]

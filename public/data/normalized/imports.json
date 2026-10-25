@@ -1,0 +1,10 @@
+[
+  {
+    "id": "import_demo_2026",
+    "filename": "2026-Q4-G11.json",
+    "importedAt": "2026-01-01T00:00:00Z",
+    "recordCount": 302,
+    "sourceType": "synthetic-demo",
+    "notes": "Fictional demonstration data; no real students, identifiers, or enrollment records."
+  }
+]
